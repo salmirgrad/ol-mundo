@@ -1,0 +1,7 @@
+body{
+font-family: 'Gill Sans', ' Gill Sans MT', calibre, 'Trebuchet MS', sans-serif;
+text-align: center;
+background-color: rgb(19,3, 236)
+color: rgb(20, 1, 81)
+
+}

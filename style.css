@@ -1,0 +1,17 @@
+body{
+    font-family:'Gill Sans', 'gill Sans MT', calibre, 'thebuchet MS', sans-serif;
+    text-align:center;
+    background-color: aqua;
+    color: blueviolet;
+
+}
+h3{
+    color:rgb(138, 43, 226);
+}
+header{
+    border-bottom: 1px solid rgb(red, rgb(0, 0, 0), blue)
+}
+footer{
+    border-top: 1px solid rgb(red, rgb(0, 0, 0), blue)
+}
+
